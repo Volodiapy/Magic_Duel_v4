@@ -1,0 +1,373 @@
+
+atlas.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+bluemana
+  rotate: false
+  xy: 2042, 2041
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+darkball1
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+darkball4
+  rotate: false
+  xy: 1540, 1542
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+darkcurse2
+  rotate: false
+  xy: 1540, 1040
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fonsklep
+  rotate: false
+  xy: 2, 504
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+pixelfon
+  rotate: false
+  xy: 2, 1274
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+pustota
+  rotate: false
+  xy: 2045, 2041
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+upcoin
+  rotate: false
+  xy: 1540, 36
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+upmagic
+  rotate: false
+  xy: 1540, 538
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+upmagskill
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+upspell
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+atlas2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+darkhero2
+  rotate: false
+  xy: 1206, 54
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+darkline1
+  rotate: false
+  xy: 504, 2
+  size: 500, 50
+  orig: 500, 50
+  offset: 0, 0
+  index: -1
+darkline2
+  rotate: false
+  xy: 2, 2
+  size: 500, 50
+  orig: 500, 50
+  offset: 0, 0
+  index: -1
+darkline3
+  rotate: false
+  xy: 1006, 2
+  size: 500, 50
+  orig: 500, 50
+  offset: 0, 0
+  index: -1
+darkshadow2
+  rotate: false
+  xy: 1206, 656
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+darkshield2
+  rotate: false
+  xy: 1539, 1523
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+lightball1
+  rotate: false
+  xy: 2, 54
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightball4
+  rotate: false
+  xy: 2, 656
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightheal2
+  rotate: false
+  xy: 604, 656
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightline1
+  rotate: false
+  xy: 1808, 347
+  size: 120, 480
+  orig: 120, 480
+  offset: 0, 0
+  index: -1
+lightline2
+  rotate: false
+  xy: 1808, 829
+  size: 120, 480
+  orig: 120, 480
+  offset: 0, 0
+  index: -1
+startbutton
+  rotate: false
+  xy: 1539, 1311
+  size: 420, 210
+  orig: 420, 210
+  offset: 0, 0
+  index: -1
+startsklep
+  rotate: false
+  xy: 2, 1258
+  size: 1535, 765
+  orig: 1535, 765
+  offset: 0, 0
+  index: -1
+triangle1
+  rotate: false
+  xy: 604, 54
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+
+atlas3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+darkshadow1
+  rotate: false
+  xy: 604, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+greyadept2
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightball2
+  rotate: false
+  xy: 1206, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightball3
+  rotate: false
+  xy: 2, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightheal1
+  rotate: false
+  xy: 604, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightheal3
+  rotate: false
+  xy: 1206, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightpulling2
+  rotate: false
+  xy: 2, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightshadow2
+  rotate: false
+  xy: 1206, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightshield2
+  rotate: false
+  xy: 604, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+
+atlas4.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+darkball2
+  rotate: false
+  xy: 1508, 604
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+darkball3
+  rotate: false
+  xy: 2, 1106
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+darkcurse1
+  rotate: false
+  xy: 504, 1106
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+darkcurse3
+  rotate: false
+  xy: 2, 604
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+darkhero1
+  rotate: false
+  xy: 604, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+darkshield1
+  rotate: false
+  xy: 1006, 604
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+lightpulling1
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightshield1
+  rotate: false
+  xy: 1206, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 1006, 1106
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+slot
+  rotate: false
+  xy: 504, 604
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+uppower
+  rotate: false
+  xy: 1508, 1106
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+atlas5.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+greyadept1
+  rotate: false
+  xy: 2, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+lightshadow1
+  rotate: false
+  xy: 2, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+triangle
+  rotate: false
+  xy: 604, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+triangle2
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1

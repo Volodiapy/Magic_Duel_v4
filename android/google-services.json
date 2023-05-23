@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29258586241",
+    "firebase_url": "https://forduelbase-default-rtdb.firebaseio.com",
+    "project_id": "forduelbase",
+    "storage_bucket": "forduelbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29258586241:android:cee160ae1114d466919580",
+        "android_client_info": {
+          "package_name": "com.mygdx.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29258586241-t6qoee1gab3h6q1k9mk5k4ci4ec5fk2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2DSGx9oSnEbs7ciTV3Gt9xrE2K1HMsk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29258586241-t6qoee1gab3h6q1k9mk5k4ci4ec5fk2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
